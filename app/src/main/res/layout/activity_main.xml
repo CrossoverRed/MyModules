@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@drawable/purplrrrfloewer"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/ModuleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="                      My Modules"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/C346text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="C346: Mobile App Development"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/C390text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C390: Portfolio Development"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/C203text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C203: Web App In Development in php"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/C206text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C206: Software Development Process"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/C218text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C218: UI/UX Design for Apps"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/C235text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C235: IT Security and Management"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/G953text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="G953: Life Skills III"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+
+</LinearLayout>
